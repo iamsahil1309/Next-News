@@ -6,7 +6,7 @@ import Article from "@/components/Article"
 
 const Search = () => {
 
-  const [newsData, setNewsData] = useState([]);
+  const [newsData, setNewsData] = useState<any>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const searchParams = useSearchParams();
   const search = searchParams ? searchParams.get("q") : null;
