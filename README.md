@@ -4,6 +4,14 @@ M-News is a sleek and intuitive news application built with **Next.js** that all
 
 ---
 
+
+## 🌟 Screenshots  
+ 
+
+![news-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/c9e503d8-26d8-44d1-8bbe-3e0b5648362c)
+
+
+
 ## 🔥 Features  
 - **Search Functionality:** Quickly search news articles by keywords.  
 - **Categorized Navigation:** Select news topics using the navbar for a focused reading experience.  
@@ -54,12 +62,6 @@ Ensure you have the following installed:
    Open [http://localhost:3000](http://localhost:3000) in your browser.  
 
 ---
-
-## 🌟 Screenshots  
- 
-
-![news-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/c9e503d8-26d8-44d1-8bbe-3e0b5648362c)
-
 
 
 Elevate your news-reading experience with **M-News**! 🌟  
