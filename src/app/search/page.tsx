@@ -5,6 +5,7 @@ import { news } from "../../../types"
 import Article from "@/components/Article"
 
 const Search = () => {
+  //eslint-disable-next-line
   const [newsData, setNewsData] = useState<any>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const searchParams = useSearchParams();
