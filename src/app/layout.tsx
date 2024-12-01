@@ -38,8 +38,9 @@ export default function RootLayout({
           <Navbar />
           <section className="flex justify-between">
             {children}
+            {/* @ts-expect-error Async */}
             <RandomNews />
-            </section>
+          </section>
         </main>
       </body>
     </html>
