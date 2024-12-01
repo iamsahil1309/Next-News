@@ -30,8 +30,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/iamsahil1309/.git  
-   cd newswave  
+   git clone https://github.com/iamsahil1309/Next-News.git
+   cd next-news  
    ```  
 
 2. **Install dependencies:**  
@@ -56,14 +56,10 @@ Ensure you have the following installed:
 ---
 
 ## 🌟 Screenshots  
+ 
 
-### Homepage  
-Display of the latest news articles with a clean layout and categorized navigation.  
+![news-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/c9e503d8-26d8-44d1-8bbe-3e0b5648362c)
 
-### Search Results  
-Results for specific keywords, giving users instant access to relevant articles.  
-
----
 
 
 Elevate your news-reading experience with **M-News**! 🌟  
