@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# M-NEWS 🌍
 
-## Getting Started
+M-News is a sleek and intuitive news application built with **Next.js** that allows users to stay updated with the latest happenings worldwide. By leveraging the **News API**, it provides seamless searching by keywords, easy navigation through categorized options, and the ability to read full articles in a new tab.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔥 Features  
+- **Search Functionality:** Quickly search news articles by keywords.  
+- **Categorized Navigation:** Select news topics using the navbar for a focused reading experience.  
+- **Simple & Responsive Layout:** Minimalistic design optimized for various devices.  
+- **External Reading:** Open news articles in a new tab for distraction-free reading.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Tech Stack  
+- **Framework:** [Next.js](https://nextjs.org/)  
+- **API:** [News API](https://newsapi.org/)  
+- **Styling:** Tailwind CSS   
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Installation  
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites  
+Ensure you have the following installed:  
+- Node.js (v16 or above)  
+- A valid API key from [News API](https://newsapi.org/).  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Steps  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Clone the repository:**  
+   ```bash  
+   git clone https://github.com/iamsahil1309/.git  
+   cd newswave  
+   ```  
 
-## Deploy on Vercel
+2. **Install dependencies:**  
+   ```bash  
+   npm install  
+   ```  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Set up environment variables:**  
+   Create a `.env.local` file in the root directory and add your News API key:  
+   ```bash  
+   NEXT_PUBLIC_NEXT_PUBLIC_API_TOKEN_NEWS  
+   ```  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. **Run the development server:**  
+   ```bash  
+   npm run dev  
+   ```  
+
+5. **Access the app:**  
+   Open [http://localhost:3000](http://localhost:3000) in your browser.  
+
+---
+
+## 🌟 Screenshots  
+
+### Homepage  
+Display of the latest news articles with a clean layout and categorized navigation.  
+
+### Search Results  
+Results for specific keywords, giving users instant access to relevant articles.  
+
+---
+
+
+Elevate your news-reading experience with **M-News**! 🌟  
