@@ -1,6 +1,7 @@
 import { news } from "../../types"
 
-export const removeDuplicateData = (articles:any) => {
+//@ts-ignore
+export const removeDuplicateData = (articles) => {
     const randomArticle:news[] = articles?.articles
     const filterArticles = randomArticle.filter(article => article?.source.id !== null)
     return filterArticles
